@@ -1,0 +1,48 @@
+1,2,LatestApp=8.0.0.225 built 6/19/2019 4:15:51 AM,LatestDB=8.0.0.30 built 6/18/2019 4:53:59 PM,5,6,7,ReportTime=06/19/2019 06:02:08
+ENVIRONMENT,APP HOSTNAME,PRODUCT VERSION,DB VERSION,DB HOST,DB USED GB,DB FREE GB,ModelShare
+New zzz CI,zzzTSNTFRAS1,7.0.0.4380,7.0.0.1506,zzzTSNTFRDB1\SQL2017,42,50,\\zzTSFILES\SDG\Models\Integration
+zzz Manual Env,zzz-ngp-ts-ap1,7.0.0.4343,7.0.0.1509,zzz-NGP-TS-DB1\SQL2016,1050,281,\\ppp\zzz_Models\7.0_RC2
+Acceptance Env,zzzTRPACCPTAPP1,6.0.0.4745,6.0.0.2366,zzztrpaccptdb1\SQL2016,229,421,\\ppp\zzz_Models\6.0_Release
+Regression Env,zzz-TRP-App1,7.0.0.4343,7.0.0.1509,zzz-trp-db1\sql2016,540,791,\\ppp\zzz_Models\7.0_RC2
+Functional Env,zzzTS2APP1,7.0.0.4343,7.0.0.1509,zzzTS2SQLDB1\SQL2016,822,816,\\ppp\zzz_Models\7.0_RC2
+Functional 1,zzzTS1APP1,7.0.0.4343,7.0.0.1509,zzzTS1SQLDB1\SQL2017,87,209,\\ppp\zzz_Models\7.0_RC2
+Functional 2,zzzTS3APP1,7.0.0.4343,7.0.0.1509,zzzTS3SQLDB1\SQL2017,373,122,\\ppp\zzz_Models\7.0_RC2
+Performance 6,zzztsp6as1,7.0.0.3693,7.0.0.1245,zzzTSP6db1\SQL2016,160,20,\\zzTSFILES\SDG\Models\Integration
+Performance 10,zzzTS10app1,6.0.0.4745,6.0.0.2366,zzzTS10DB1\SQL2016,414,610,\\ppp\ModelShares\Touchstone\AIRModels_600_noHotfix
+Big Performance Env,zzzTSAPP1,7.0.0.4343,7.0.0.1506,zzzTSDB\SQL2016,289,8,\\ppp\zzz_Models\7.0_RC2
+Auto 1,zzz-NGP-AS,7.0.0.4343,7.0.0.1509,zzz-NGP-SQL\SQL2016,436,577,\\ppp\zzz_Models\7.0_RC2
+Multi-SQL,zzzTS2012APP1,7.0.0.4343,7.0.0.1509,zzzTS2012DB1\SQL2017,660,353,\\ppp\zzz_Models\7.0_RC2
+Topaz CI,zzz-TS-TPZ-APP,8.0.0.222,8.0.0.30,zzz-TS-TPZ-DB1\SQL2016,404,189,\\zzTSFILES\SDG\Models\Integration
+New Func 2008,zzzTSF12APP1,7.0.0.4343,7.0.0.1509,zzzTSF12DB1\touchstone,32,131,\\ppp\zzz_Models\7.0_RC2
+1,2,LatestApp=8.0.0.233 built 6/20/2019 1:32:53 AM,LatestDB=8.0.0.31 built 6/19/2019 2:36:18 PM,5,6,7,ReportTime=06/20/2019 06:02:10
+ENVIRONMENT,APP HOSTNAME,PRODUCT VERSION,DB VERSION,DB HOST,DB USED GB,DB FREE GB,ModelShare
+New zzz CI,zzzTSNTFRAS1,7.0.0.4380,7.0.0.1506,zzzTSNTFRDB1\SQL2017,42,50,\\zzTSFILES\SDG\Models\Integration
+zzz Manual Env,zzz-ngp-ts-ap1,7.0.0.4343,7.0.0.1509,zzz-NGP-TS-DB1\SQL2016,1053,279,\\ppp\zzz_Models\7.0_RC2
+Acceptance Env,zzzTRPACCPTAPP1,6.0.0.4745,6.0.0.2366,zzztrpaccptdb1\SQL2016,236,414,\\ppp\zzz_Models\6.0_Release
+Regression Env,zzz-TRP-App1,7.0.0.4343,7.0.0.1509,zzz-trp-db1\sql2016,543,788,\\ppp\zzz_Models\7.0_RC2
+Functional Env,zzzTS2APP1,7.0.0.4343,7.0.0.1509,zzzTS2SQLDB1\SQL2016,697,941,\\ppp\zzz_Models\7.0_RC2
+Functional 1,zzzTS1APP1,7.0.0.4343,7.0.0.1509,zzzTS1SQLDB1\SQL2017,87,209,\\ppp\zzz_Models\7.0_RC2
+Functional 2,zzzTS3APP1,7.0.0.4452,7.0.0.1509,zzzTS3SQLDB1\SQL2017,358,137,\\zzTSFILES\SDG\Models\Integration
+Performance 6,zzztsp6as1,7.0.0.3693,7.0.0.1245,zzzTSP6db1\SQL2016,160,20,\\zzTSFILES\SDG\Models\Integration
+Performance 10,zzzTS10app1,6.0.0.4745,6.0.0.2366,zzzTS10DB1\SQL2016,414,610,\\ppp\ModelShares\Touchstone\AIRModels_600_noHotfix
+Big Performance Env,zzzTSAPP1,7.0.0.4343,7.0.0.1509,zzzTSDB\SQL2016,289,8,\\ppp\zzz_Models\7.0_RC2
+Auto 1,zzz-NGP-AS,7.0.0.4343,7.0.0.1509,zzz-NGP-SQL\SQL2016,436,577,\\ppp\zzz_Models\7.0_RC2
+Multi-SQL,zzzTS2012APP1,7.0.0.4343,7.0.0.1509,zzzTS2012DB1\SQL2017,660,353,\\ppp\zzz_Models\7.0_RC2
+Topaz CI,zzz-TS-TPZ-APP,8.0.0.230,8.0.0.31,zzz-TS-TPZ-DB1\SQL2016,399,195,\\zzTSFILES\SDG\Models\Integration
+New Func 2008,zzzTSF12APP1,7.0.0.4343,7.0.0.1509,zzzTSF12DB1\touchstone,32,132,\\ppp\zzz_Models\7.0_RC2
+1,2,LatestApp=8.0.0.245 built 6/21/2019 1:08:30 AM,LatestDB=8.0.0.32 built 6/20/2019 2:03:33 PM,5,6,7,ReportTime=06/21/2019 06:02:09
+ENVIRONMENT,APP HOSTNAME,PRODUCT VERSION,DB VERSION,DB HOST,DB USED GB,DB FREE GB,ModelShare
+New zzz CI,zzzTSNTFRAS1,7.0.0.4380,7.0.0.1506,zzzTSNTFRDB1\SQL2017,42,50,\\zzTSFILES\SDG\Models\Integration
+zzz Manual Env,zzz-ngp-ts-ap1,7.0.0.4343,7.0.0.1509,zzz-NGP-TS-DB1\SQL2016,1055,277,\\ppp\zzz_Models\7.0_RC2
+Acceptance Env,zzzTRPACCPTAPP1,6.0.0.4745,6.0.0.2366,zzztrpaccptdb1\SQL2016,236,414,\\ppp\zzz_Models\6.0_Release
+Regression Env,zzz-TRP-App1,7.0.0.4343,7.0.0.1509,zzz-trp-db1\sql2016,543,788,\\ppp\zzz_Models\7.0_RC2
+Functional Env,zzzTS2APP1,7.0.0.4343,7.0.0.1509,zzzTS2SQLDB1\SQL2016,697,941,\\ppp\zzz_Models\7.0_RC2
+Functional 1,zzzTS1APP1,7.0.0.4343,7.0.0.1509,zzzTS1SQLDB1\SQL2017,87,209,\\ppp\zzz_Models\7.0_RC2
+Functional 2,zzzTS3APP1,7.0.0.4452,7.0.0.1509,zzzTS3SQLDB1\SQL2017,359,136,\\zzTSFILES\SDG\Models\Integration
+Performance 6,zzztsp6as1,7.0.0.3693,7.0.0.1245,zzzTSP6db1\SQL2016,160,20,\\zzTSFILES\SDG\Models\Integration
+Performance 10,zzzTS10app1,6.0.0.4745,6.0.0.2366,zzzTS10DB1\SQL2016,414,610,\\ppp\ModelShares\Touchstone\AIRModels_600_noHotfix
+Big Performance Env,zzzTSAPP1,7.0.0.4343,7.0.0.1509,zzzTSDB\SQL2016,289,8,\\ppp\zzz_Models\7.0_RC2
+Auto 1,zzz-NGP-AS,7.0.0.4343,7.0.0.1509,zzz-NGP-SQL\SQL2016,436,577,\\ppp\zzz_Models\7.0_RC2
+Multi-SQL,zzzTS2012APP1,7.0.0.4343,7.0.0.1509,zzzTS2012DB1\SQL2017,660,353,\\ppp\zzz_Models\7.0_RC2
+Topaz CI,zzz-TS-TPZ-APP,8.0.0.242,8.0.0.32,zzz-TS-TPZ-DB1\SQL2016,409,184,\\zzTSFILES\SDG\Models\Integration
+New Func 2008,zzzTSF12APP1,7.0.0.4343,7.0.0.1509,zzzTSF12DB1\touchstone,32,132,\\ppp\zzz_Models\7.0_RC2
